@@ -1,0 +1,65 @@
+{
+  "agent_id": "bcn_b0297b9968e3",
+  "endpoint": "https://rustchain.org/beacon/relay/heartbeat",
+  "interval_ms": 300000,
+  "requested_count": 4,
+  "generated_at": "2026-06-05T14:52:15.671Z",
+  "entries": [
+    {
+      "index": 1,
+      "timestamp_utc": "2026-06-05T14:37:13.790Z",
+      "http_status": 200,
+      "ok": true,
+      "response": {
+        "agent_id": "bcn_b0297b9968e3",
+        "assessment": "active",
+        "beat_count": 1,
+        "ok": true,
+        "status": "alive",
+        "token_expires": 1780756634.348003
+      }
+    },
+    {
+      "index": 2,
+      "timestamp_utc": "2026-06-05T14:42:14.307Z",
+      "http_status": 200,
+      "ok": true,
+      "response": {
+        "agent_id": "bcn_b0297b9968e3",
+        "assessment": "active",
+        "beat_count": 2,
+        "ok": true,
+        "status": "alive",
+        "token_expires": 1780756934.7541919
+      }
+    },
+    {
+      "index": 3,
+      "timestamp_utc": "2026-06-05T14:47:14.700Z",
+      "http_status": 200,
+      "ok": true,
+      "response": {
+        "agent_id": "bcn_b0297b9968e3",
+        "assessment": "active",
+        "beat_count": 3,
+        "ok": true,
+        "status": "alive",
+        "token_expires": 1780757235.3591487
+      }
+    },
+    {
+      "index": 4,
+      "timestamp_utc": "2026-06-05T14:52:15.311Z",
+      "http_status": 200,
+      "ok": true,
+      "response": {
+        "agent_id": "bcn_b0297b9968e3",
+        "assessment": "active",
+        "beat_count": 4,
+        "ok": true,
+        "status": "alive",
+        "token_expires": 1780757535.7608778
+      }
+    }
+  ]
+}
