@@ -1,0 +1,16 @@
+﻿{
+    "agent_id":  "bcn_b0297b9968e3",
+    "capabilities_registered":  [
+                                    "coding",
+                                    "github-triage",
+                                    "bounty-work",
+                                    "code-review",
+                                    "documentation",
+                                    "automation"
+                                ],
+    "crypto_available":  true,
+    "ok":  true,
+    "signature_verified":  null,
+    "token_expires":  1780756582.3114636,
+    "ttl_s":  86400
+}
